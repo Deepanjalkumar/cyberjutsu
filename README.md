@@ -10,4 +10,8 @@
 
 ## dehashed
 
-## Threat intel
+## Threat intelligence
+
+## Vulnerability management
+
+## Penetration testing
