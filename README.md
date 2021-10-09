@@ -10,8 +10,8 @@
 
 ## dehashed
 
-## Threat intelligence
+## Mandiant Threat intelligence
 
-## Vulnerability management
+## Vulnerability management (Attack surface management)
 
-## Penetration testing
+## Penetration testing (Manual)
